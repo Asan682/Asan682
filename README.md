@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Мои навыки:
-<img src=" width="10%">
+pytest
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1dbb00a4-6603-4fcd-b5b8-df773de91ade" />
